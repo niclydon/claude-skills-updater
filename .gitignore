@@ -1,0 +1,6 @@
+tmp/
+prompts/
+!prompts/.gitkeep
+__pycache__/
+.venv/
+*.pyc
