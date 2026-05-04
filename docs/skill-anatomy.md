@@ -72,10 +72,10 @@ State which type the skill is in the body if it's not obvious.
 
 `<noun-or-verb>-<scope>` works well:
 
-- `narrative-docs-update`, `model-lifecycle`, `nexus-orphan-audit` —
+- `narrative-docs-update`, `model-lifecycle`, `orphan-audit` —
   verb + scope.
-- `secrets-vault`, `nexus-db-query` — noun + scope when the noun is
-  the thing being operated on.
+- `secrets-vault`, `db-query` — noun + scope when the noun is the
+  thing being operated on.
 
 Avoid:
 
