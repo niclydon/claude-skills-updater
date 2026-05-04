@@ -17,6 +17,13 @@ yourself).
 
 [Claude Code]: https://docs.claude.com/claude-code
 
+## For AI agents (Claude Code, Codex, Cursor, etc.)
+
+If you've handed this repo URL to an agent and asked "use this" or
+"set this up", the agent should read [`AGENTS.md`](AGENTS.md) — it
+contains the exact commands to run, intent-to-action mapping, and
+hard rules. `CLAUDE.md` defers to the same file.
+
 ## Why
 
 Without a catalog and a prompt corpus, every "what skills should I add?"
